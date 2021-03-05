@@ -1,7 +1,7 @@
 # van_api
-:bangbang: This is not officially maintained or supported by Everyaction or NGPVAN. View the official reference at https://everyaction.readme.io/. :bangbang: 
+:bangbang: This is not officially maintained or supported by Everyaction or NGP VAN. View the official reference at https://everyaction.readme.io/. :bangbang: 
 
-Notebooks and various things to make calls to the EA/NGPVAN API. Assumes a basic installation of python 3.x, jupyter, and pip, and github configuration. Contact me if you'd like help with setup.
+Notebooks and various things to make calls to the EA/NGP VAN API. Assumes a basic installation of python 3.x, jupyter, and pip, and github configuration. Contact me if you'd like help with setup.
 
 ## To install & start the mwe notebook
 
